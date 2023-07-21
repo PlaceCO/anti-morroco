@@ -23,7 +23,8 @@ subs = [
     'minecraft',
     'cursed_comments',
     'cringetopia',
-    'shitposting'
+    'shitposting',
+    'colombia'
 ]
 
 while True:
