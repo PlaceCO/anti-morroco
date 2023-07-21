@@ -1,9 +1,9 @@
 {
-  "account-maker-email": "morganchristansen98@protonmail.com",
+  "account-maker-email": "sebasorova@protonmail.com",
   "verbose": true,
   "event-update-interval": 30,
-  "worker-count": 12,
-  "tor": false,
+  "worker-count": 2000,
+  "tor": true,
   "apps": [{
       "client-id": "L3bpmcAAKprp9lsNoWAJWw",
       "secret": "MD88z0C4RW591wU3ejWyJkE3MB6cQg"
